@@ -1,0 +1,10 @@
+{
+  "name": "LearningMomentjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tien Phuc <leesinvn123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.2"
+  }
+}
